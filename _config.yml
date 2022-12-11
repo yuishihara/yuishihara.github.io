@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Yu Ishihara"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I'm a research software engineer at Sony Group Corporation. My interest is applying machine learning techniques (especially reinforcement learning) to robots."
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=KPZ3RBUAAAAJ"
-  email            :
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "linkedin.com/in/yu-ishihara-7a1b09b1"
   orcid            : "https://orcid.org/0000-0002-5767-2639"
   pinterest        :
   soundcloud       :
